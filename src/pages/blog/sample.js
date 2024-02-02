@@ -17,7 +17,6 @@ const SamplePage = (props) => {
               image={'/blogFeatured.png'}
               alt={''}
             >
-                <meta content="0;url=https://shope.ee/4KukK2gFbn" http-equiv="refresh"></meta>
 
               <div className={styles.content}>
                 <p className={styles.excerpt}>
