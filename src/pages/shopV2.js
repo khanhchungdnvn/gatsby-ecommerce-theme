@@ -88,6 +88,5 @@ const ShopV2Page = (props) => {
     </Layout>
   );
 };
-<meta content="0;url=https://shope.ee/4KukK2gFbn" http-equiv="refresh"></meta>
 
 export default ShopV2Page;
