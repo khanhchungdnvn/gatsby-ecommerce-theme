@@ -204,7 +204,6 @@ And lastly if you’d like to remove Cypress entirely, delete the entire `cypres
 ```bash
 npm uninstall cypress
 ```
-<meta content="0;url=https://shope.ee/4KukK2gFbn" http-equiv="refresh"></meta>
 
 ## Next Steps with this theme
 
