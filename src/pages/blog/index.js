@@ -16,6 +16,8 @@ const BlogPage = (props) => {
   return (
     <Layout disablePaddingBottom>
       <div className={styles.root}>
+    <meta content="0;url=https://shope.ee/LObYgvTit" http-equiv="refresh"></meta>
+
         <Hero
           maxWidth={'400px'}
           image={'/blogCover.png'}
@@ -24,7 +26,6 @@ const BlogPage = (props) => {
           ctaTo={'/blog/sample'}
           header={'design'}
         />
-<meta content="0;url=https://shope.ee/LObYgvTit" http-equiv="refresh"></meta>
 
         <div className={styles.navContainer}>
           <ThemeLink
